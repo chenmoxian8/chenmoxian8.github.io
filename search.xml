@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>凌冬将至</title>
+      <link href="/2024/10/20/%E5%87%8C%E5%86%AC%E5%B0%86%E8%87%B3/"/>
+      <url>/2024/10/20/%E5%87%8C%E5%86%AC%E5%B0%86%E8%87%B3/</url>
+      
+        <content type="html"><![CDATA[<p>新建一篇文章:<br>hexo new 文章名;</p><p>本地预览<br>hexo cl; hexo s<br>访问地址: <a href="http://localhost:4000/">http://localhost:4000/</a></p><p>发布:<br>hexo cl; Hexo g; Hexo d;<br>相当于<br>hexo clean;<br>Hexo generate;<br>Hexo deploy;</p><hr><p>title: 凌冬将至 #【必需】页面标题<br>date: 1729413480000 #【必需】页面创建日期<br>updated: #【可选】页面更新日期<br>tags: #【可选】文章标签<br>categories: #【可选】文章分类<br>keywords: #【可选】文章关键字<br>description: #【可选】文章描述<br>top: # 1 置顶<br>top_img: #【可选】文章顶部图片<br>comments: #【可选】显示文章评论模块(默认 true)<br>cover: <a href="https://img.090227.xyz/file/ae62475a131f3734a201c.png">https://img.090227.xyz/file/ae62475a131f3734a201c.png</a> #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false&#x2F;图片地址&#x2F;留空)<br>toc: #【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)<br>toc_number: #【可选】显示 toc_number(默认为设置中 toc 的 number 配置)<br>toc_style_simple: #【可选】显示 toc 简洁模式<br>copyright: #【可选】显示文章版权模块(默认为设置中 post_copyright 的 enable 配置)<br>copyright_author: #【可选】文章版权模块的文章作者<br>copyright_author_href: #【可选】文章版权模块的文章作者链接<br>copyright_url: #【可选】文章版权模块的文章作者链接<br>copyright_info: #【可选】文章版权模块的版权声明文字<br>mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)<br>katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)<br>aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置<br>highlight_shrink: #【可选】配置代码框是否展开(true&#x2F;false)(默认为设置中 highlight_shrink 的配置)<br>aside: #【可选】显示侧边栏 (默认 true)<br>swiper_index: 10 #【可选】首页轮播图配置 index 索引，数字越小越靠前<br>top_group_index: 10 #【可选】首页右侧卡片组配置, 数字越小越靠前<br>ai: #【可选】文章ai摘要</p><h2 id="background-“-fff”-【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如-ffffff-不可写成-fff"><a href="#background-“-fff”-【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如-ffffff-不可写成-fff" class="headerlink" title="background: “#fff” #【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如#ffffff 不可写成#fff"></a>background: “#fff” #【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如#ffffff 不可写成#fff</h2><p><img src="https://img.happy860.eu.org/file/202410201043988.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 自然 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 风景 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>新主题的博文</title>
       <link href="/2024/10/19/%E6%96%B0%E4%B8%BB%E9%A2%98%E7%9A%84%E5%8D%9A%E6%96%87/"/>
       <url>/2024/10/19/%E6%96%B0%E4%B8%BB%E9%A2%98%E7%9A%84%E5%8D%9A%E6%96%87/</url>

@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>文章名</title>
+      <link href="/2024/10/20/%E6%96%87%E7%AB%A0%E5%90%8D/"/>
+      <url>/2024/10/20/%E6%96%87%E7%AB%A0%E5%90%8D/</url>
+      
+        <content type="html"><![CDATA[<p>hexo new 文章名;</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>凌冬将至</title>
       <link href="/2024/10/20/%E5%87%8C%E5%86%AC%E5%B0%86%E8%87%B3/"/>
       <url>/2024/10/20/%E5%87%8C%E5%86%AC%E5%B0%86%E8%87%B3/</url>
